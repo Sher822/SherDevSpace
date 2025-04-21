@@ -1,2 +1,2 @@
 # SherDevSpace
-Config files for my GitHub profile.
+"A collection of my development projects, experiments, and resources."
